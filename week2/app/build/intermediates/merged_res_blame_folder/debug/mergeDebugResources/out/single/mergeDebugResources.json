@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_dog.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/dog.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_butterfly_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/butterfly_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_butterfly.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/butterfly.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_butterfly_round.xml.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/butterfly_round.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_dog.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/dog.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_butterfly.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/butterfly.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_butterfly.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/butterfly.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_dog_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/dog_round.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_dog.xml.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/dog.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_dog_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/dog_foreground.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_dog_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/dog_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_butterfly_foreground.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/butterfly_foreground.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_dog_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/dog_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_dog.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/dog.xml"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/drawable_butterfly_background.xml.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/drawable/butterfly_background.xml"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_butterfly_foreground.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/butterfly_foreground.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_dog_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/dog_round.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_butterfly.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/butterfly.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_butterfly_foreground.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/butterfly_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_butterfly_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/butterfly_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/layout_listview_row.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/layout/listview_row.xml"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_butterfly.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/butterfly.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_butterfly.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/butterfly.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_dog_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/dog_round.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_butterfly_foreground.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/butterfly_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_dog_round.xml.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/dog_round.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_dog.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/dog.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_butterfly.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/butterfly.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_dog_round.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/dog_round.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_butterfly.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/butterfly.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_dog.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/dog.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_dog_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/dog_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/layout_activity_custom_adapter.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/layout/activity_custom_adapter.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_dog.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/dog.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_dog_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/dog_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_dog_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/dog_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_butterfly_foreground.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/butterfly_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_dog_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/dog_round.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_dog.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/dog.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_butterfly.xml.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/butterfly.xml"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_butterfly_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/butterfly_round.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_butterfly.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/butterfly.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_butterfly.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/butterfly.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_dog_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/dog_foreground.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_dog.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/dog.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_butterfly_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/butterfly_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_dog.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/dog.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_dog_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/dog_foreground.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-hdpi_dog.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-hdpi/dog.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_dog_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/dog_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/layout_activity_array_adapter.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/layout/activity_array_adapter.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxxhdpi_dog_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxxhdpi/dog_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-xxhdpi_butterfly_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-xxhdpi/butterfly_round.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/drawable_dog_background.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/drawable/dog_background.xml"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_dog_round.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/dog_round.webp"
+    },
+    {
+        "merged": "msku.ceng.madlab.week2.app-debug-31:/mipmap-mdpi_dog.webp.flat",
+        "source": "msku.ceng.madlab.week2.app-main-33:/mipmap-mdpi/dog.webp"
+    },
+    {
+        "merged": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/yusufkoksal/.gradle/daemon/8.7/msku.ceng.madlab.week2.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
