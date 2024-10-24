@@ -39,6 +39,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        if(getIntent() != null && getIntent().getData() != null){
+            txtAddress.setText(getIntent().getData().toString());
+            webView.loadUrl(getIntent().getData().toString());
+        }
+
     }
 
     @Override
