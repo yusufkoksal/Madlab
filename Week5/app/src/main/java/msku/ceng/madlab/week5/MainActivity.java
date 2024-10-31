@@ -24,25 +24,24 @@ public class MainActivity extends AppCompatActivity {
     byte[][] board = new byte[3][3];
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         TableLayout table = findViewById(R.id.board);
-        for (int i = 0 ; i<3;i++){
+        for (int i = 0; i < 3; i++) {
             TableRow row = (TableRow) table.getChildAt(i);
-            for(int j = 0 ; j<3;j++){
+            for (int j = 0; j < 3; j++) {
                 Button btn = (Button) row.getChildAt(j);
-                btn.setOnClickListener(new CellListener(i,j));
+                btn.setOnClickListener(new CellListener(i, j));
             }
         }
 
     }
 
-    class CellListener implements View.OnClickListener{
-        int row,col;
+    class CellListener implements View.OnClickListener {
+        int row, col;
 
         public CellListener(int row, int col) {
             this.row = row;
@@ -52,16 +51,16 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
 
-            if(!isValidMove(row,col)){
-                Toast.makeText(MainActivity.this,"Cell is already occupied",Toast.LENGTH_LONG).show();
+            if (!isValidMove(row, col)) {
+                Toast.makeText(MainActivity.this, "Cell is already occupied", Toast.LENGTH_LONG).show();
                 return;
             }
 
-            if(player1Turn){
-                ((Button)v).setText(PLAYER_1);
+            if (player1Turn) {
+                ((Button) v).setText(PLAYER_1);
                 board[row][col] = 1;
-            }else{
-                ((Button)v).setText(PLAYER_2);
+            } else {
+                ((Button) v).setText(PLAYER_2);
                 board[row][col] = 2;
             }
 
@@ -153,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        public boolean isValidMove(int row,int col){
+        public boolean isValidMove(int row, int col) {
 
             return board[row][col] == 0;
         }
@@ -161,36 +160,43 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    public void onSaveInstanceState(@NonNull Bundle outState, @NonNull PersistableBundle outPersistentState) {
-        outState.putBoolean("player1Turn",player1Turn);
+    public void onSaveInstanceState(@NonNull Bundle outState) {
+        outState.putBoolean("player1Turn", player1Turn);
         byte[] boardSingle = new byte[9];
-        for (int i = 0; i < 3 ; i++) {
+        for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 boardSingle[3 * i + j] = board[i][j];
             }
         }
-        outState.putByteArray("board",boardSingle);
-        super.onSaveInstanceState(outState, outPersistentState);
+        outState.putByteArray("board", boardSingle);
+        super.onSaveInstanceState(outState);
     }
 
     @Override
     protected void onRestoreInstanceState(@NonNull Bundle savedInstanceState) {
         super.onRestoreInstanceState(savedInstanceState);
+
         player1Turn = savedInstanceState.getBoolean("player1Turn");
         byte[] boardSingle = savedInstanceState.getByteArray("board");
-        for (int i = 0; i < 9 ; i++) {
-            board[i/3][i%3] = boardSingle[i];
+
+        if (boardSingle != null) {
+            for (int i = 0; i < 9; i++) {
+                board[i / 3][i % 3] = boardSingle[i];
+            }
         }
 
+        // Update the board UI
         TableLayout table = findViewById(R.id.board);
         for (int i = 0; i < 3; i++) {
             TableRow row = (TableRow) table.getChildAt(i);
             for (int j = 0; j < 3; j++) {
                 Button button = (Button) row.getChildAt(j);
-                if(board[i][j] == 1){
-                    button.setText("X");
+                if (board[i][j] == 1) {
+                    button.setText(PLAYER_1);
                 } else if (board[i][j] == 2) {
-                    button.setText("O");
+                    button.setText(PLAYER_2);
+                } else {
+                    button.setText(""); // Clear button text if empty
                 }
             }
         }
